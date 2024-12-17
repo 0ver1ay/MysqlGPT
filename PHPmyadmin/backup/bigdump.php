@@ -40,7 +40,7 @@ error_reporting(E_ALL);
 $db_server   = 'localhost';
 $db_name     = 'renokom_shopd_db';
 $db_username = 'root';
-$db_password = 'c8G7Eaob1LSJFpt9'; 
+$db_password = 'root'; 
 
 // Connection charset should be the same as the dump file charset (utf8, latin1, cp1251, koi8r etc.)
 // See http://dev.mysql.com/doc/refman/5.0/en/charset-charsets.html for the full list
